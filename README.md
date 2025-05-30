@@ -1,5 +1,6 @@
 # Car-Sales-Dashboard-Project-Tableau
 
+
 # Objective
 To design an interactive Tableau dashboard that provides clear, actionable insights into car sales performance across different regions, time periods, car models, and sales channels. The goal is to help stakeholders monitor sales trends, identify high-performing segments, and make data-driven business decisions.
 
